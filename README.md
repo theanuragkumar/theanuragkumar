@@ -28,12 +28,12 @@ Here are some ideas to get you started:
 <img src="https://komarev.com/ghpvc/?username=theanuragkumar&style=flat-square&color=blue" alt=""/>
 
 <h1>
-  hey there
+  Anurag Kumar
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="400"/>
 </div>
 
 I am Microsoft Certified Azure Developer and a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
@@ -61,4 +61,6 @@ I am Microsoft Certified Azure Developer and a Full Stack Developer <img src="ht
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=theanuragkumar&theme=dark&background=000000)](https://git.io/streak-stats)
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theanuragkumar&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=theanuragkumar&show_icons=true)  
 
