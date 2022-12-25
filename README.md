@@ -29,12 +29,7 @@ Here are some ideas to get you started:
 
 <h1>
   Anurag Kumar
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="500" height="300"/>
-</div>
 
 I am Microsoft Certified Azure Developer and a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 - :telescope: I’m working as a Software Developer at Tata Consultancy Services and contributing to frontend and backend for building web applications.
