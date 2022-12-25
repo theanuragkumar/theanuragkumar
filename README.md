@@ -57,5 +57,5 @@ I am Microsoft Certified Azure Developer and a Full Stack Developer <img src="ht
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theanuragkumar&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=theanuragkumar&theme=dark&background=000000&show_icons=true)  
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=theanuragkumar&layout=compact&theme=vision-friendly-dark&show_icons=true)  
 
