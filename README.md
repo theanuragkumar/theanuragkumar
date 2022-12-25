@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" auto-play=on width="100"/>
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
 <div id="badges">
@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 </h1>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="400"/>
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="500" height="300"/>
 </div>
 
 I am Microsoft Certified Azure Developer and a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
@@ -62,5 +62,5 @@ I am Microsoft Certified Azure Developer and a Full Stack Developer <img src="ht
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theanuragkumar&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=theanuragkumar&show_icons=true)  
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=theanuragkumar&theme=dark&background=000000&show_icons=true)  
 
