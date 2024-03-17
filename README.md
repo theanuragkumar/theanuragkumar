@@ -31,9 +31,35 @@ Here are some ideas to get you started:
   Anurag Kumar
 </h1>
 
-I am Microsoft Certified Azure Developer and a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-- 🔭: I’m working as a Software Developer at Tata Consultancy Services and contributing to frontend and backend for building web applications.
-- 📫:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/theanuragkumar/)
+
+## About Me
+I am a Full Stack Developer from India. With 3 years of experience, I have a strong foundation in developing scalable and performant web applications using a variety of technologies. My experience includes working with Go lang, Java Spring Boot, React JS, Next JS, Docker, and more.
+
+## Work Experience
+I am currently working as a Software Developer at Tata Consultancy Services, where I contribute to both frontend and backend development for building web applications. I have a passion for problem-solving and enjoy collaborating with team members to deliver high-quality software solutions. My experience in both front-end and back-end development allows me to understand the full stack of web development and deliver solutions that are optimized for performance, security, and user experience.
+
+## Skills
+- Full Stack Web Development
+- Go lang
+- Java Spring Boot
+- React JS
+- Next JS
+- Docker
+- Frontend and Backend Development
+- Problem-solving
+
+## Achievements
+- Microsoft Certified Azure Developer
+- Active participation in hackathons and open-source projects
+- Attended conferences to stay updated with the latest trends and best practices in web development
+
+## Contact Me
+- LinkedIn: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/theanuragkumar/)
+
+I am committed to delivering exceptional service and building strong relationships with clients. My focus on delivering solutions that meet and exceed expectations has resulted in many successful projects. As a Full Stack Web Developer, I am passionate about using my expertise to develop solutions that solve real-world problems and deliver value to users.
+
+Feel free to connect with me if you have any questions, opportunities for collaboration, or just want to chat about web development! I'm always open to meeting new people and discussing exciting projects. You can reach out to me via LinkedIn using the link provided above, or feel free to send me a direct message here. Looking forward to connecting with you!
+
 
 ---
 ### :hammer_and_wrench: Languages and Tools :
