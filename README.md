@@ -45,13 +45,13 @@ I am currently working as a Software Developer at Tata Consultancy Services, whe
 - React JS
 - Next JS
 - Docker
-- Frontend and Backend Development
 - Problem-solving
 
 ## Achievements
 - Microsoft Certified Azure Developer
+- Microsoft DevOps Expert
 - Active participation in hackathons and open-source projects
-- Attended conferences to stay updated with the latest trends and best practices in web development
+
 
 ## Contact Me
 - LinkedIn: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/theanuragkumar/)
