@@ -33,10 +33,10 @@ Here are some ideas to get you started:
 
 
 ## About Me
-I am a Full Stack Developer from India. With 3 years of experience, I have a strong foundation in developing scalable and performant web applications using a variety of technologies. My experience includes working with Go lang, Java Spring Boot, React JS, Next JS, Docker, and more.
+I am a Full Stack Developer from India. With 3+ years of experience, I have a strong foundation in developing scalable and performant web applications using a variety of technologies. My experience includes working with Go lang, Java Spring Boot, React JS, Next JS, Docker, and more.
 
 ## Work Experience
-I am currently working as a Software Developer at Tata Consultancy Services, where I contribute to both frontend and backend development for building web applications. I have a passion for problem-solving and enjoy collaborating with team members to deliver high-quality software solutions. My experience in both front-end and back-end development allows me to understand the full stack of web development and deliver solutions that are optimized for performance, security, and user experience.
+I am currently working as a Application Developer at IBM, where I contribute to both frontend and backend development for building web applications. I have a passion for problem-solving and enjoy collaborating with team members to deliver high-quality software solutions. My experience in both front-end and back-end development allows me to understand the full stack of web development and deliver solutions that are optimized for performance, security, and user experience.
 
 ## Skills
 - Full Stack Web Development
